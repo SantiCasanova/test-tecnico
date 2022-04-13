@@ -1,0 +1,44 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputForm {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.input {
+  border-radius: 2px;
+  font-weight: 300;
+  padding: 10px;
+  border: none;
+  background: #f4f4f4;
+}
+
+.text {
+  height: 60px;
+}
+
+.textArea {
+  height: 150px;
+  resize: none;
+}
+
+.textInfo {
+  width: 80%;
+  font-weight: 300;
+  font-size: 13px;
+  height: 40px;
+  margin-top: 25px;
+  text-align: center;
+  align-self: center;
+}

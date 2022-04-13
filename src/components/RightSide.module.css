@@ -1,0 +1,14 @@
+.container {
+  width: auto;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title {
+  border-bottom: 1px solid #e4e4e4;
+  padding: 0px 0px 15px 5px;
+  font: bold;
+  font-size: 26px;
+}
